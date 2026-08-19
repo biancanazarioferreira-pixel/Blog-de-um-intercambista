@@ -16,6 +16,7 @@ main {
     margin: 0 auto;
     border: 5px solid #1927e69f;
     padding: 15px;
+    display: flex;
 }
 
 footer {
@@ -28,4 +29,9 @@ footer {
 
 .autor{
     font-weight: bold;
+}
+
+img{
+    height: 10%;
+    width: 10%;
 }
