@@ -36,3 +36,9 @@ img{
     width: 30%;
     border: 10%;
 }
+
+div{
+    text-align: left;
+    padding: 15px;
+    margin: 0 auto;
+}
